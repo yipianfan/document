@@ -1,0 +1,8 @@
+#查看建表语句
+show create table 表名
+
+#查看表的索引
+show index from 表名
+
+#查看mysql存放数据的目录
+show variables like 'data%'

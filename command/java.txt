@@ -1,0 +1,2 @@
+#查看jvm的默认参数
+java -XX:+PrintFlagsFinal -version
